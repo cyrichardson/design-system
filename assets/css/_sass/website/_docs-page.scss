@@ -215,3 +215,14 @@
 .tempP{
   float: left;
 }
+
+/* Add custom class to overwrite default button styling for buttons in header*/
+.hdrButton{
+  border-color: #ffffff !important;
+  color: #ffffff !important;
+  background-color: $cyan700 !important;
+  &:hover{
+    background-color: $cyan500 !important;
+    cursor: pointer;
+  }
+}

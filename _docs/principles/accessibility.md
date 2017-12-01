@@ -63,6 +63,7 @@ Color deficiency is a common issue faced in the design process. The most common 
 </div>
 
 
+
 <div class="hxRow"  markdown="1">
 {% column left:"hxCol-12 hxCol-xs-12 hxCol-sm-12 hxCol-md-12 hxCol-lg-12" %}
 
